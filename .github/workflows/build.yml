@@ -27,4 +27,3 @@ jobs:
         with:
           name: CoreProtect.jar
           path: target/*.jar
-          archive: false
